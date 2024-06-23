@@ -1,0 +1,77 @@
+{
+               "Horoscopedata":[
+                              {
+
+                                             "id":0,
+                                             "symbol":"♈",
+                                             "name":"aries",
+                                             "date":"March 21-April 19"
+                              },
+                              {
+                                             "id":1,
+                                             "symbol":"♉",
+                                             "name":"taurus",
+                                             "date":"April 20–May 20"
+                              },
+                              {
+                                             "id":2,
+                                             "symbol":"♊",
+                                             "name":"gemini",
+                                             "date":"May 21–June 21"
+                              },
+                              {
+                                             "id":3,
+                                             "symbol":"♋",
+                                             "name":"cancer",
+                                             "date":"June 22–July 22"
+                              },
+                              {
+                                             "id":4,
+                                             "symbol":"♌",
+                                             "name":"leo",
+                                             "date":"July 23–August 22"
+                              },
+                              {
+                                             "id":5,
+                                             "symbol":"♍",
+                                             "name":"virgo",
+                                             "date":"August 23–September 22"
+                              },
+                              {
+                                             "id":6,
+                                             "symbol":"♎",
+                                             "name":"libra",
+                                             "date":"September 23–October 23"
+                              },
+                              {
+                                             "id":7,
+                                             "symbol":"♏",
+                                             "name":"scorpius",
+                                             "date":"October 24–November 21"
+                              },
+                              {
+                                             "id":8,
+                                             "symbol":"♐",
+                                             "name":"sagittarius",
+                                             "date":"November 22–December 21"
+                              },
+                              {
+                                             "id":9,
+                                             "symbol":"♑",
+                                             "name":"capricornus",
+                                             "date":"December 22–January 19"
+                              },
+                              {
+                                             "id":10,
+                                             "symbol":"♓",
+                                             "name":"aquaries",
+                                             "date":"January 20–February 18"
+                              },
+                              {
+                                             "id":11,
+                                             "symbol":"♈",
+                                             "name":"pisces",
+                                             "date":"February 19–March 20"
+                              }
+               ]
+}
