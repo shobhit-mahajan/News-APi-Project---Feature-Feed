@@ -17,7 +17,7 @@ const Feature = () => {
         const newsdata = await fetch(url);
         const newsapidata = await newsdata.json()
         const Data = newsapidata.articles
-        const limitedData = Data.slice(1,7)
+  
       setImages(Data);
     };
 
